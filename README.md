@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abelpota
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML
-- 📫 How to reach me: *Private*
+- 📫 How to reach me: ocelot@duck.com
 
 <!---
 abelpota/abelpota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
