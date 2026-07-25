@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abelpota
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Java/TypeScript
 - 📫 How to reach me: ocelot@duck.com
 
 <!---
